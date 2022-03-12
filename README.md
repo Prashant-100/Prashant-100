@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prashant-100
+- 👋 Hi, I’m Prashant
 - 👀 I’m interested in Machine Learning, Deep Learning, NLP and anything which is going to be in Data Sciece Field.
 - 🌱 I’m currently learning Machine Learning, Deep Learning.
 - 💞️ I’m looking to collaborate on small projects in near future asap I am done with ML.
